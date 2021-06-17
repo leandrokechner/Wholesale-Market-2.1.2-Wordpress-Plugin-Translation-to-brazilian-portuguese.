@@ -1,4 +1,4 @@
-# Wholesale Market 2.1.2 Wordpress Plugin Translation to brazilian portuguese.
+# Wholesale Market 2.1.2 Wordpress Plugin Translation to Brazilian Portuguese.
 Tradução do plugin para Wordpress + Woocommerce Wholesale Market 2.1.2 para português brasileiro.
 
 Para utilizar os arquivos, basta copiá-los para a pasta do plugin:
