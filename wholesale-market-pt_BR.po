@@ -1,0 +1,770 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Wholesale Market 2.1.2 Wordpress Plugin Translation to brazilian portuguese.\n"
+"Language: pt-br\n"
+
+#: class-cwsm-core-class.php:76
+msgid "Demo : Backend"
+msgstr "Demonstração: Backend"
+
+#: class-cwsm-core-class.php:77
+msgid "Demo: Frontend"
+msgstr "Demonstração: Frontend"
+
+#: class-cwsm-core-class.php:78
+msgid "Plugin Documentation"
+msgstr "Documentação do plugin"
+
+#: class-cwsm-core-class.php:79
+msgid "More Plugins By CedCommerce"
+msgstr "Mais plugins por CedCommerce"
+
+#: class-cwsm-core-class.php:206
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr "Insira no formato decimal (%s) sem separadores de milhar."
+
+#: class-cwsm-core-class.php:207
+msgid "Please enter in monetary decimal (%s) format without thousand separators and currency symbols."
+msgstr "Insira no formato decimal monetário (%s) sem separadores de milhar e símbolos de moeda."
+
+#: class-cwsm-core-class.php:208
+msgid "Please enter in country code with two capital letters."
+msgstr "Insira o código do país com duas letras maiúsculas."
+
+#: class-cwsm-core-class.php:209
+msgid "Please enter in a value less than the regular price."
+msgstr "Insira um valor menor que o preço normal."
+
+#: wholesale-market.php:85
+msgid "Wholesale-Customer"
+msgstr "Cliente de Atacado"
+
+#: wholesale-market.php:242
+msgid "Please Install WooCommerece First."
+msgstr "Instale Primeiro o WooCommerce."
+
+#: core/adminSettingsCore/class-cwsm-admin-settings.php:27
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:46
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:70
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:119
+msgid "Wholesale Market"
+msgstr "Preço de Atacado"
+
+#: core/adminSettingsCore/class-cwsm-admin-settings.php:78
+msgid "Basic Features"
+msgstr "Recursos básicos"
+
+#: core/adminSettingsCore/class-cwsm-admin-settings.php:164
+#: core/adminSettingsCore/class-cwsm-admin-settings.php:167
+msgid "Your settings have been saved."
+msgstr "Suas configurações foram salvas."
+
+#: core/adminSettingsCore/html-setting-tabbed-header.php:46
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:48
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:72
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:123
+msgid "Wholesale-User Related Options"
+msgstr "Opções relacionadas ao usuário de atacado"
+
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:52
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:76
+#: core/adminSide/class-cwsm-add-product-meta-fields.php:125
+#: core/adminSide/class-cwsm-productListingPage-customization.php:45
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:319
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:138
+msgid "Wholesale Price"
+msgstr "Preço de Atacado"
+
+#: core/adminSide/class-cwsm-basic-settings.php:27
+msgid "General"
+msgstr "Geral"
+
+#: core/adminSide/class-cwsm-basic-settings.php:66
+msgid "General Configurations"
+msgstr "Configurações Gerais"
+
+#: core/adminSide/class-cwsm-basic-settings.php:68
+msgid "General configurations regarding the plugins are listed below."
+msgstr "As configurações gerais relacionadas aos plug-ins estão listadas abaixo."
+
+#: core/adminSide/class-cwsm-basic-settings.php:72
+msgid "Enable"
+msgstr "Habilitar"
+
+#: core/adminSide/class-cwsm-basic-settings.php:73
+msgid "Enable Wholesale Market Features"
+msgstr "Habilitar recursos do mercado de atacado"
+
+#: core/adminSide/class-cwsm-basic-settings.php:79
+msgid "Who Can See Wholesale Price"
+msgstr "Quem pode ver o preço de atacado"
+
+#: core/adminSide/class-cwsm-basic-settings.php:80
+msgid "This controls what kind of users will able to see wholesale-price on the frontend of the store."
+msgstr "Isso controla que tipo de usuário poderá ver o preço de atacado no front-end da loja."
+
+#: core/adminSide/class-cwsm-basic-settings.php:85
+msgid "Display Wholesale-Price To All Users"
+msgstr "Exibir preço de atacado para todos os usuários"
+
+#: core/adminSide/class-cwsm-basic-settings.php:86
+msgid "Display Wholesale-Price To Wholesale-Customer Only"
+msgstr "Exibir preço de atacado apenas para clientes de atacado"
+
+#: core/adminSide/class-cwsm-basic-settings.php:92
+msgid "Show Wholesale-Price On Product Listing Page"
+msgstr "Mostrar preço de atacado na página de lista de produtos"
+
+#: core/adminSide/class-cwsm-basic-settings.php:93
+msgid "Show In Price Column"
+msgstr "Mostrar na coluna de preço"
+
+#: core/adminSide/class-cwsm-basic-settings.php:98
+msgid "This option will show wholesale price in price-column of product-listing page"
+msgstr "Esta opção mostrará o preço de atacado na coluna de preços da página de lista de produtos"
+
+#: core/adminSide/class-cwsm-basic-settings.php:101
+msgid "Keep Plugin Settings On Deactivation"
+msgstr "Manter as Configurações do Plug-in Desativadas"
+
+#: core/adminSide/class-cwsm-basic-settings.php:102
+msgid "Save Plugin Setting Even After Deactivation"
+msgstr "Salvar a Configuração do Plug-in Mesmo Após a Desativação"
+
+#: core/adminSide/class-cwsm-basic-settings.php:107
+msgid "If you check this your plugin setting will be saved and used later on while activating plugin after deactivation. Otherwise your setting will be lost and you have to fill settings again."
+msgstr "Se você marcar isto, sua configuração de plugin será salva e usada mais tarde ao ativar o plugin após a desativação. Caso contrário, sua configuração será perdida e você terá que preencher as configurações novamente."
+
+#: core/adminSide/class-cwsm-basic-settings.php:110
+msgid "Keep Products Meta Fields Added By Plugin On Deactivation"
+msgstr "Manter os Meta Campos dos Produtos Adicionados pelo Plug-in na Desativação"
+
+#: core/adminSide/class-cwsm-basic-settings.php:111
+msgid "Save Products Meta-Fields Even After Deactivation"
+msgstr "Salve os Meta Campos dos Produtos Mesmo Após a Desativação"
+
+#: core/adminSide/class-cwsm-basic-settings.php:116
+msgid "If you check this your products meta fields added by the plugin will be saved and used later on while activating plugin after deactivation. Otherwise your setting will be lost and you have to fill settings again."
+msgstr "Se você marcar esta opção, os metacampos de seus produtos adicionados pelo plug-in serão salvos e usados posteriormente ao ativar o plug-in após a desativação. Caso contrário, sua configuração será perdida e você terá que preencher as configurações novamente."
+
+#: core/adminSide/class-cwsm-basic-settings.php:123
+msgid "Customize Wholesale-Price Text Section"
+msgstr "Personalize a Seção de Texto de Preço de Atacado"
+
+#: core/adminSide/class-cwsm-basic-settings.php:125
+msgid "\"Custom Wholesale-Price Text On Shop Page\" and \"Custom Wholesale-Price Text On Product Single Page\" will be used in only when Minimum Product To Buy is set. Otherwise \"Default Wholesale-Price Text\" will be used."
+msgstr "\"Texto de preço de atacado personalizado na página da loja\" e \"Texto de preço de atacado personalizado na página única do produto\" serão usados apenas quando o Produto mínimo a ser comprado for definido. Caso contrário, será usado \"Texto de preço de atacado padrão\"."
+
+#: core/adminSide/class-cwsm-basic-settings.php:129
+msgid "Default Wholesale-Price Text"
+msgstr "Texto de Preço de Atacado Padrão"
+
+#: core/adminSide/class-cwsm-basic-settings.php:130
+msgid "Don't remove {*wm_price} from text-area. It is used to read wholesale-price. You are however free to add text before and after {*wm_price}"
+msgstr "Não remova {* wm_price} da área de texto. Ele é usado para ler o preço de atacado. No entanto, você está livre para adicionar texto antes e depois de {* wm_price}"
+
+#: core/adminSide/class-cwsm-basic-settings.php:132
+#: core/adminSide/class-cwsm-basic-settings.php:141
+#: core/adminSide/class-cwsm-basic-settings.php:150
+msgid "Wholesale Price : {*wm_price}"
+msgstr "Preço de atacado: {* wm_price}"
+
+#: core/adminSide/class-cwsm-basic-settings.php:138
+msgid "Custom Wholesale-Price Text On Shop Page"
+msgstr "Texto de Preço de Atacado Personalizado na Página da Loja"
+
+#: core/adminSide/class-cwsm-basic-settings.php:139
+#: core/adminSide/class-cwsm-basic-settings.php:148
+msgid "Use {*wm_price} for wholesale-price and {*wm_min_qty} for product minimum quantity to buy."
+msgstr "Use {* wm_price} para preço de atacado e {* wm_min_qty} para quantidade mínima de produto a comprar."
+
+#: core/adminSide/class-cwsm-basic-settings.php:147
+msgid "Custom Wholesale-Price Text On Product Single Page"
+msgstr "Texto de preço de atacado personalizado na página única do produto"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:324
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:356
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:381
+msgid "Product-Name : "
+msgstr "Nome do Produto : "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:325
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:357
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:382
+msgid "Update Failure Reason(s) :"
+msgstr "Motivo (s) da falha de atualização:"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:329
+msgid "- Minimum Quantity To Buy was blank."
+msgstr "- A Quantidade Mínima para Comprar Estava em Branco."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:333
+msgid "- Minimum Quantity To Buy was not found in correct format. It must be numeric."
+msgstr "- A Quantidade Mínima a Comprar não foi encontrada no formato correto. Deve ser numérico."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:361
+msgid "- Regular-Price was blank."
+msgstr "- O preço normal estava em branco."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:365
+msgid "- Regular-Price To Buy was not found in correct format. It must be numeric."
+msgstr "- Preço normal de compra não foi encontrado no formato correto. Deve ser numérico."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:386
+msgid "- Sale-Price was blank."
+msgstr "- O preço de venda estava em branco."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:390
+msgid "- Sale-Price To Buy was not found in correct format. It must be numeric."
+msgstr "- O preço de venda a comprar não foi encontrado no formato correto. Deve ser numérico."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:580
+msgid "CSV Import/Export"
+msgstr "Importar / Exportar CSV"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:601
+msgid "Instructions To Use CSV Module of Wholesale-Market"
+msgstr "Instruções para usar o módulo CSV do mercado de atacado"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:605
+msgid "1. Export the format of CSV by clicking the "
+msgstr "1. Exporte o formato de CSV clicando no "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:605
+msgid "Export CSV Format "
+msgstr "Formato de exportação CSV "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:605
+msgid "below."
+msgstr "abaixo de."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:606
+msgid "2. Use the exported CSV to fill-in the values of "
+msgstr "2. Use o CSV exportado para preencher os valores de "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:606
+msgid "Wholesale Price "
+msgstr "Preço por atacado "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:606
+msgid "and/or "
+msgstr "e / ou "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:606
+msgid "Minimum Product To Buy "
+msgstr "Produto mínimo para comprar "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:606
+msgid "columns for each product you want."
+msgstr "colunas para cada produto que você deseja."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:607
+msgid "3. By default this module only updates "
+msgstr "3. Por padrão, este módulo apenas atualiza "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:607
+msgid "Wholesale-Market "
+msgstr "Mercado Atacadista "
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:607
+msgid "meta-fields. If you want the module to change WooCommerce-Price (regular-price & sale-price) of product, then please make the checkbox checked."
+msgstr "meta-campos. Se você deseja que o módulo altere o preço WooCommerce (preço normal e preço de venda) do produto, marque a caixa de seleção."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:608
+msgid "4. Finally, click the upload button and let the magic begin."
+msgstr "4. Finalmente, clique no botão de upload e deixe a mágica começar."
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:614
+msgid "Get CSV Format Here"
+msgstr "Obtenha o formato CSV aqui"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:616
+msgid "Export CSV Format"
+msgstr "Formato de exportação CSV"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:621
+msgid "Select CSV To Upload"
+msgstr "Selecione CSV para fazer upload"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:624
+msgid "Browse"
+msgstr "Navegar"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:625
+msgid "No File Selected"
+msgstr "Nenhum arquivo selecionado"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:631
+msgid "Update WooCommerce Price Also"
+msgstr "Atualizar também o preço do WooCommerce"
+
+#: addons/csv-import-export/class-cwsm-csv-import-export.php:635
+msgid "Upload"
+msgstr "Envio"
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:57
+msgid "Wholsale-Market Suggestion : "
+msgstr "Sugestão para o mercado de atacado: "
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:58
+msgid "Suggestion : "
+msgstr "Sugestão: "
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:58
+msgid "Suggestion From : "
+msgstr "Sugestão de: "
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:102
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:157
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:108
+msgid "Send Suggestion"
+msgstr "Enviar sugestão"
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:122
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:73
+msgid "Your suggestion has been successfully send."
+msgstr "Sua sugestão foi enviada com sucesso."
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:129
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:80
+msgid "Some error occured. Please try again."
+msgstr "Ocorreu algum erro. Por favor, tente novamente."
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:136
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:87
+msgid "Both fields are required. Please try again. "
+msgstr "Ambos os campos são obrigatórios. Por favor, tente novamente. "
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:143
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:94
+msgid "You can send your suggestion and query regarding Wholesale-Market here."
+msgstr "Você pode enviar sua sugestão e consulta sobre Mercado Atacadista aqui."
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:148
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:99
+msgid "Enter suggestion title here"
+msgstr "Insira o título da sugestão aqui"
+
+#: addons/admin-suggestions/class-cwsm-admin-suggestions.php:152
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:103
+msgid "Enter suggestion detail here"
+msgstr "Insira os detalhes da sugestão aqui"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:94
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:142
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:158
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:194
+msgid "Minimum Quantity To Buy"
+msgstr "Quantidade Mínima Para Comprar"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:257
+msgid "Product Quantity"
+msgstr "Quantidade de produto"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:274
+msgid "Product Quantity Section"
+msgstr "Seção de quantidade de produto"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:276
+msgid "Settings regarding minimum product quantity to buy are listed below"
+msgstr "As configurações relativas à quantidade mínima de produto a comprar estão listadas abaixo"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:276
+msgid "Buyer has to buy minimum some amount of particular product, then only wholesale price will be apply to buyers cart."
+msgstr "O comprador deve comprar no mínimo uma certa quantidade de determinado produto, então apenas o preço de atacado será aplicado ao carrinho do comprador."
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:280
+msgid "Enable Minimum Quantity"
+msgstr "Habilitar Quantidade Mínima"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:281
+msgid "To Activate Minimum Quantity Condition To Apply Wholesale-Price"
+msgstr "Para ativar a condição de quantidade mínima para aplicar o preço de atacado"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:287
+msgid "Minimum Quantity Selection Mode"
+msgstr "Modo de Seleção de Quantidade Mínima"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:288
+msgid "This controls from where to pick minimum quantity"
+msgstr "Isso controla de onde escolher a quantidade mínima"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:293
+msgid "Pick Minimum Quantity From Product Panel"
+msgstr "Escolha a quantidade mínima no painel do produto"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:294
+msgid "Set Common Minimum Quantity For All Products"
+msgstr "Definir a quantidade mínima comum para todos os produtos"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:300
+msgid "Common Minimum Quantity"
+msgstr "Quantidade Mínima Comum"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:317
+msgid "Customize Message Regarding Wholesale-Price On Cart Page"
+msgstr "Personalize a mensagem sobre o preço de atacado na página do carrinho"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:319
+msgid "Using below options cart-page-messages regarding wholesale-market can be customize. You can give custom message to be prompt to users regarding wholesale-price applied or not."
+msgstr "Usando as opções abaixo, as mensagens da página do carrinho relacionadas ao mercado de atacado podem ser personalizadas. Você pode dar uma mensagem personalizada para ser avisado aos usuários sobre o preço de atacado aplicado ou não."
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:319
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:242
+msgid "List of shortcode that can be used to customize the message are listed below :"
+msgstr "A lista de shortcode que pode ser usada para personalizar a mensagem está listada abaixo:"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:319
+msgid "Product Name"
+msgstr "Nome do Produto"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:319
+msgid "Product Minimum Quantity To Buy"
+msgstr "Quantidade Mínima de Produto a Comprar"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:319
+msgid "Product Quantity In Cart"
+msgstr "Quantidade do produto no carrinho"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:319
+msgid "Difference Between (Product Minimum Quantity To Buy) And (Product Quantity In Cart)"
+msgstr "Diferença entre (quantidade mínima do produto a comprar) e (quantidade do produto no carrinho)"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:323
+msgid "Default Wholesale-Price-Applied Text"
+msgstr "Texto padrão aplicado a preço de atacado"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:324
+msgid "This text is used when \"Enable Minimum Quantity\" is disabled"
+msgstr "Este texto é usado quando \"Habilitar Quantidade Mínima\" está desabilitado"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:324
+msgid "Here please use {*wm_product_name} and {*wm_price} only."
+msgstr "Aqui, use apenas {* wm_product_name} e {* wm_price}."
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:328
+msgid "Wholesale price is applied successfully on \"{*wm_product_name}\"."
+msgstr "O preço de atacado foi aplicado com sucesso em \"{* wm_product_name}\"."
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:334
+msgid "Custom Wholesale-Price-Applied Success Message Text On Cart Page"
+msgstr "Texto personalizado da mensagem de sucesso aplicada a preço de atacado na página do carrinho"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:337
+msgid "Wholesale price is applied successfully on \"{*wm_product_name}\" as {*wm_min_qty} or more units are in cart."
+msgstr "O preço de atacado foi aplicado com sucesso em \"{* wm_product_name}\", pois {* wm_min_qty} ou mais unidades estão no carrinho."
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:343
+msgid "Custom Wholesale-Price-Applied Failure Message Text On Cart Page"
+msgstr "Texto da mensagem de falha aplicada ao preço de atacado personalizado na página do carrinho"
+
+#: addons/min-product-qty-module/class-cwsm-min-product-qty-module.php:346
+msgid "Wholesale price will be applicable on \"{*wm_product_name}\" after buying {*wm_qty_diff} more units."
+msgstr "O preço de atacado será aplicável em \"{* wm_product_name}\" após a compra de mais {* wm_qty_diff} unidades."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:51
+msgid "Wholesale User Add-On"
+msgstr "Complemento de usuário de atacado"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:53
+msgid "Allow Merchant to add multiple level wholesale roles as well as manage price for each roles. User wholesale role request handling features and many more...."
+msgstr "Permita que o comerciante adicione funções de atacado de vários níveis, bem como gerencie o preço de cada função. Recursos de gerenciamento de solicitação de função de usuário no atacado e muito mais ...."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:54
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:65
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:76
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:87
+msgid "View Demo"
+msgstr "Ver demonstração"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:55
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:66
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:77
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:88
+msgid "Buy Now"
+msgstr "Compre Agora"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:62
+msgid "Wholesale Product Add-On"
+msgstr "Complemento de produto no atacado"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:64
+msgid "List wholesale product on seperate section. Product avaliable for wholesale or other role. Global discount to product and many more..."
+msgstr "Lista de produtos de atacado na seção separada. Produto disponível para atacado ou outra função. Desconto global para o produto e muito mais ..."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:73
+msgid "Wholesale Subscription Add-On"
+msgstr "Complemento de assinatura de atacado"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:75
+msgid "User can subscribe himself for wholesale roles for specific time as monthly, half-yearly, yearly."
+msgstr "O usuário pode se inscrever para funções de atacado para um tempo específico como mensal, semestral, anual."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:84
+msgid "Wholesale Reporting Add-On"
+msgstr "Complemento de relatórios de atacado"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:86
+msgid "There is a reporting section where user can view all wholesale orders date, user, product wise. View all wholesale request reports and many more..."
+msgstr "Há uma seção de relatórios onde o usuário pode ver todas as datas de pedidos de atacado, usuário, produto sábio. Veja todos os relatórios de solicitação de atacado e muito mais ..."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:95
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:98
+msgid "Wholesale Taxation Add-On"
+msgstr "Complemento de tributação no atacado"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:97
+msgid "Allow merchant to manage taxes for wholesale users and many more..."
+msgstr "Permitir que o comerciante gerencie impostos para usuários atacadistas e muito mais ..."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:98
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:108
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:118
+msgid "Suggest Features"
+msgstr "Sugerir recursos"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:105
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:108
+msgid "Wholesale Shipping Add-On"
+msgstr "Complemento de remessa por atacado"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:107
+msgid "Manage shipping method for wholesale order and many more..."
+msgstr "Gerenciar o método de envio para pedidos de atacado e muito mais ..."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:115
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:118
+msgid "Wholesale Payment Add-On"
+msgstr "Complemento de pagamento por atacado"
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:117
+msgid "Manage payment method for wholesale order and many more..."
+msgstr "Gerencie o método de pagamento para pedidos de atacado e muito mais ..."
+
+#: addons/wholesale-advertisement/wholesale-advertisement-addon.php:138
+msgid "Get Addons"
+msgstr "Obter complementos"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:200
+msgid "Checkout Price"
+msgstr "Preço do checkout"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:214
+msgid "Minimum Checkout Price Section"
+msgstr "Seção de preço mínimo de check-out"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:216
+msgid "Settings regarding minimum checkout price are listed below."
+msgstr "As configurações relacionadas ao preço mínimo de compra estão listadas abaixo."
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:216
+msgid "Buyer's cart total has to be minimum that, then only wholesale user will be able to checkout."
+msgstr "O total do carrinho do comprador deve ser mínimo, então apenas o usuário de atacado poderá finalizar a compra."
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:220
+msgid "Enable Minimum Checkout Price"
+msgstr "Habilitar preço mínimo de check-out"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:221
+msgid "Enable To Activate Minimum Checkout Price Condition"
+msgstr "Habilitar para ativar a condição de preço mínimo de check-out"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:227
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:242
+msgid "Minimum Checkout Price"
+msgstr "Preço mínimo de check-out"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:240
+msgid "Customize Error Message Regarding Failure Of Minimum Checkout Price Condition On Cart Page Or Checkout Page"
+msgstr "Personalizar a mensagem de erro referente à falha da condição de preço mínimo de check-out na página do carrinho ou na página de check-out"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:242
+msgid "Using below options error message regarding \"Minimum Checkout Price\" can be customize."
+msgstr "Usando as opções abaixo, a mensagem de erro sobre \"Preço mínimo de check-out\" pode ser personalizada."
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:242
+msgid "Cart Total Price"
+msgstr "Preço total do carrinho"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:246
+msgid "Custom Failure Message For Minimum Checkout Price Condition"
+msgstr "Mensagem de falha personalizada para condição de preço mínimo de check-out"
+
+#: addons/min-checkout-price-module/class-cwsm-min-checkout-price-module.php:248
+msgid "Sorry you can't checkout as your cart total is less then {*wm_minCheckoutPrice}."
+msgstr "Desculpe, você não pode finalizar a compra, pois o total do seu carrinho é inferior a {* wm_minCheckoutPrice}."
+
+#: addons/sticky-admin-suggestions/class-cwsm-sticky-send-suggestions.php:67
+msgid "Send Us Suggestions"
+msgstr "Envie-nos sugestões"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:51
+msgid "Role Management"
+msgstr "Gestão de Funções"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:67
+msgid "Role Management Settings"
+msgstr "Configurações de gerenciamento de funções"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:73
+msgid "Enable the Request Role Widget"
+msgstr "Habilitar o widget de função de solicitação"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:74
+msgid "Enable it for creating a role request widget (You can activate widget by Appearance > Widgets > Wholesale Request widget )"
+msgstr "Ative-o para criar um widget de solicitação de função (você pode ativar o widget em Aparência> Widgets> Widget de solicitação de atacado)"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:80
+msgid "Enable the Request Role on My Account Page"
+msgstr "Habilite a função de solicitação na página Minha conta"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:81
+msgid "Enable it for allowing user to request role from My Account Page"
+msgstr "Habilite-o para permitir que o usuário solicite função na página Minha conta"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:87
+msgid "Assigning requested role directly"
+msgstr "Atribuindo a função solicitada diretamente"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:88
+msgid "Enable it for assigning the requested role directly"
+msgstr "Habilite-o para atribuir a função solicitada diretamente"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:149
+msgid "Wholesale Quantity"
+msgstr "Quantidade de atacado"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:254
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:56
+msgid "Role Successfully Requested"
+msgstr "Função solicitada com sucesso"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:264
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:67
+msgid "Select Role"
+msgstr "Selecione a função"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:265
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:68
+msgid "Wholesale Customer"
+msgstr "Cliente de atacado"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:280
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:84
+msgid "Click Here"
+msgstr "Clique aqui"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:305
+msgid "Please Select all fields"
+msgstr "Selecione todos os campos"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:337
+msgid "Your Package will not be applied until you dont pay for your requested package. Please pay to enjoy your package"
+msgstr "Seu pacote não será aplicado até que você não pague pelo pacote solicitado. Por favor, pague para desfrutar do seu pacote"
+
+#: addons/wholesale-request/include/class-wholesale-user-register-addon.php:344
+msgid "Thanks for choosing this package. Now you are our wholesaleuser"
+msgstr "Obrigado por escolher este pacote. Agora você é nosso usuário atacadista"
+
+#: addons/wholesale-request/admin/class-wholesale-price-tax.php:67
+msgid "Product Tax Section"
+msgstr "Seção de imposto sobre produtos"
+
+#: addons/wholesale-request/admin/class-wholesale-price-tax.php:69
+msgid "Settings regarding include/exclude tax in wholesale price of product. According to following setting taxes is applied to product."
+msgstr "As configurações relativas à inclusão / exclusão de impostos no preço de atacado do produto. De acordo com a configuração a seguir, os impostos são aplicados ao produto."
+
+#: addons/wholesale-request/admin/class-wholesale-price-tax.php:74
+#: addons/wholesale-request/admin/class-wholesale-price-tax.php:75
+msgid "Exclude Tax For Wholesale User"
+msgstr "Excluir imposto para usuário de atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-price-tax.php:92
+msgid "Tax"
+msgstr "Imposto"
+
+#: addons/wholesale-request/admin/class-wholesale-order-coloumn.php:108
+#: addons/wholesale-request/admin/class-wholesale-order-coloumn.php:128
+msgid "Wholesale Order"
+msgstr "Pedido de atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-order-coloumn.php:131
+msgid "Not a Wholesale Order"
+msgstr "Não é um pedido de atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:104
+msgid "Requested Role: "
+msgstr "Função solicitada: "
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:141
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:13
+msgid "Wholesale Request"
+msgstr "Pedido por atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:172
+msgid "Notification"
+msgstr "Notificação"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:251
+msgid "From Name"
+msgstr "De nome"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:259
+msgid "From Email"
+msgstr "Do email"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:268
+msgid "New Request for Wholesale Role Subject"
+msgstr "Novo pedido de assunto de função de atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:276
+msgid "New Request for Wholesale Role Message"
+msgstr "Novo pedido de mensagem de função de atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:298
+msgid "Wholesale Role Request Received Subject"
+msgstr "Assunto Recebido da Solicitação de Função no Atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:306
+msgid "Wholesale Role Request Received Message"
+msgstr "Mensagem recebida de solicitação de função no atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:328
+msgid "Wholesale Role Request Accept Subject"
+msgstr "Assunto de aceitação da solicitação de função no atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:336
+msgid "Wholesale Role Request Accept Message"
+msgstr "Mensagem de aceitação de solicitação de função no atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:358
+msgid "Wholesale Role Request Cancel Subject"
+msgstr "Assunto de cancelamento de solicitação de função no atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:366
+msgid "Wholesale Role Request Cancel Message"
+msgstr "Mensagem de cancelamento de solicitação de função no atacado"
+
+#: addons/wholesale-request/admin/class-wholesale-user-register-notification.php:388
+msgid "Save Setting"
+msgstr "Salvar configuração"
+
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:14
+msgid "Send request to become a wholeseller"
+msgstr "Envie uma solicitação para se tornar um atacadista"
+
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:64
+msgid "Want to Modify Role "
+msgstr "Quer modificar a função "
+
+#: addons/wholesale-request/widgets/wholesale-request-widgets.php:109
+msgid "Request a Role"
+msgstr "Solicite uma função"
+
